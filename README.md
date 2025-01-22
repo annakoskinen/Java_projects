@@ -1,2 +1,2 @@
 # Java_projects
-Java projects done during the spring of 2024 will be added here.
+Java project done during the spring of 2024. The project is done in collaboration with two people in the same Java course.
